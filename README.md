@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Calota Iulia</h1>
-<h3 align="center">Quality Assurance from Europe (Romania / Bucharest)</h3>
+<h3 align="center">Quality Assurance from Europe (Romania/Bucharest)</h3>
 
-"Your mind is for having ideas, not for holding them" by Allen David
-So, here I am, with 3 years of experience as a QA Manual Tester on Web(Google Chrome, Microsoft Edge, Mozilla Firefox et), Devices (iOS, Android), Watches(Android, iOS), where Quality is the main goal.
+> ”Your mind is for having ideas, not for holding them” – David Allen
+
+ ###<center> From pharmacy assistant to QA tester, quality is the main goal.
+So here I am, with almost 3 years of experience as a QA manual tester, worked on Roblox project, where I performed both static and dynamic testing, to ensure that quality standards are met and fit the end user.
+
+With a background as a technical support, seller development on the Marketplace platform, and a pharmacy assistant, I know what it means to be emphatic, communicative, disciplined, and business-oriented.
+
+I am keen on sharing ideas, experiences and setting new quality standards.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calota-iulia&label=Profile%20views&color=0e75b6&style=flat" alt="calota-iulia" /> </p>
 
@@ -16,6 +23,7 @@ So, here I am, with 3 years of experience as a QA Manual Tester on Web(Google Ch
 </p>
 
 ### Tools
+
 
  <details>Some other facts about me: I like crocheting, running and writing poetry in my free time.</details>
 
