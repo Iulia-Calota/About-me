@@ -2,7 +2,7 @@
 <h3 align="center">Quality Assurance from Europe (Romania / Bucharest)</h3>
 
 "Your mind is for having ideas, not for holding them" by Allen David
-So, here I am, with 3 years of experience as a QA Manual Tester on Web(Google Chrome, Microfost Edge, Mozilla Firefox et), Devices (iOS, Android), Watches(Android, iOS), where Quality is the main goal.
+So, here I am, with 3 years of experience as a QA Manual Tester on Web(Google Chrome, Microsoft Edge, Mozilla Firefox et), Devices (iOS, Android), Watches(Android, iOS), where Quality is the main goal.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calota-iulia&label=Profile%20views&color=0e75b6&style=flat" alt="calota-iulia" /> </p>
 
