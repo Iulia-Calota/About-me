@@ -1,10 +1,19 @@
-# About-me
-This folder is about me and the work that I am creating
-👋 Hi, I’m @Iulia-Calota
-👀 I’m interested in Quality Assurance, Quality Control annd Testing (Manual and Automation)
-🌱 I’m currently learning Automation Testing
-💞️ I’m looking collaborate on new projects, and challenges, where I can share the knowledge already gained
-🤝 Connect with me: www.linkedin.com/in/calota-iulia
-😄 Pronouns: she/her
-⚡ Fun fact: I like crosheting, running and writing poetry
-- This are my personal 
+<h1 align="center">Hi 👋, I'm Calota Iulia</h1>
+<h3 align="center">Quality Assurance from Europe (Romania / Bucharest)</h3>
+![- ](https://www.canva.com/design/DAFj_Xw4wf4/wPsMe2dLXyW2HC7uJIZVbA/edit)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=calota-iulia&label=Profile%20views&color=0e75b6&style=flat" alt="calota-iulia" /> </p>
+
+- 🌱 I’m currently learning [Automation testing](https://www.udemy.com/course/testare-manuala-si-automata-curs-qa)
+- 👨‍💻 All of my projects are available at [Manual Testing project](https://github.com/Iulia-Calota/manual-testing-project)
+- 📫 How to reach me ****
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/calota-iulia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="calota-iulia" height="30" width="40" /></a>
+</p>
+
+ <details>Some other facts about me: I like crocheting, running and writing poetry in my free time.</details>
+
+
+
+
