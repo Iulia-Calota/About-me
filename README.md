@@ -7,3 +7,4 @@ This folder is about me and the work that I am creating
 🤝 Connect with me: www.linkedin.com/in/calota-iulia
 😄 Pronouns: she/her
 ⚡ Fun fact: I like crosheting, running and writing poetry
+- This are my personal 
