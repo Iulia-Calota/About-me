@@ -18,8 +18,8 @@ I am keen on sharing ideas, experiences and setting new quality standards.
 
 - 🌱 I’m currently learning [Automation testing](https://www.udemy.com/course/testare-manuala-si-automata-curs-qa)
 - 👨‍💻 All of my projects are available at [Manual Testing project](https://github.com/Iulia-Calota/manual-testing-project)
-- How can you reach me:
-<a href="https://linkedin.com/in/calota-iulia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="calota-iulia" height="30" width="20" /></a>
+- How can you reach me: 
+<a href="https://linkedin.com/in/calota-iulia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="calota-iulia" height="25" width="15" /></a>
 </p>
 
 ----
