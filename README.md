@@ -40,4 +40,4 @@ I am keen on sharing ideas, experiences and setting new quality standards.
 #
 
  <details>
- <Some other facts about me: I like crocheting, running and writing poetry in my free time.</details>
+- Some other facts about me: I like crocheting, running and writing poetry in my free time.
