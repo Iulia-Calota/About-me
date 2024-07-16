@@ -7,6 +7,8 @@
 
 So here I am, with almost 3 years of experience as a QA manual tester, worked on Roblox project, where I performed both static and dynamic testing, to ensure that quality standards are met and fit the end user.
 
+Actively volunteering for a small business, performing quality assurance testing on software products.
+
 With a background as a technical support, seller development on the Marketplace platform, and a pharmacy assistant, I know what it means to be emphatic, communicative, disciplined, and business-oriented.
 
 I am keen on sharing ideas, experiences and setting new quality standards.
