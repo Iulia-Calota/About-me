@@ -18,8 +18,8 @@ I am keen on sharing ideas, experiences and setting new quality standards.
 
 ------------
 
-- 🏆Certificate Tester on [Manual and Automated testing](https://github.com/Iulia-Calota/About-me/blob/main/Manual%20and%20Automation%20Testing%20by%20Radu%20Popescu.png)
-- 🌱 I'm currently working on [Automation Project](https://github.com/Iulia-Calota/Testing-Automation-New)
+- 🏆Certification Tester on [Manual and Automated testing](https://github.com/Iulia-Calota/About-me/blob/main/Manual%20and%20Automation%20Testing%20by%20Radu%20Popescu.png)
+- 🌱 I'm currently working on [ APIAutomation Project](https://github.com/Iulia-Calota/Testing-Automation-New)
 - How can you reach me: 
 <a href="https://linkedin.com/in/calota-iulia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="calota-iulia" height="25" width="15" /></a>
 </p>
@@ -38,8 +38,3 @@ I am keen on sharing ideas, experiences and setting new quality standards.
 <img align="left" alt="HTML" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="GIMP" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" />
 <br />
-
-#
-
- <details>
-  Some other facts about me: I like crocheting, running and writing poetry in my free time.
