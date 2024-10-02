@@ -1,28 +1,39 @@
-<h1 align="center">Hi 👋, I'm Calota Iulia</h1>
+<h1 align="center">Hi 👋, I'm Calotă Iulia</h1> 
 <h3 align="center">Quality Assurance from Europe (Romania/Bucharest)</h3>
 
- **”Your mind is for having ideas, not for holding them”** – David Allen
+🌟 About Me
+QA Tester with 5 years of IT experience ( 3ᐩ years in QA and 2 years in tech support), dedicated to ensuring the highest standards of quality. My journey from a pharmacy assistant ( 11 years) to a seasoned QA professional has equipped me with a unique perspective on precision, user experience, and business needs.
 
- ### From pharmacy assistant to QA tester, quality is the main goal.
+🔍 Professional Experience
 
-So here I am, with almost 3 years of experience as a QA manual tester, worked on Roblox project, where I performed both static and dynamic testing, to ensure that quality standards are met and fit the end user.
+Freelance QA Tester
+August 2023 - Present
+- Currently collaborating with a small leather business to develop their first website. We engage in daily/weekly meetings with the team to identify user stories, translating them into detailed test cases and scenarios.
+- In this CI/CD environment, we help identify bugs early, ensuring smooth deployments while saving time and money for the client.
 
-Actively volunteering for a small business, performing quality assurance testing on software products.
+QA Tester at Roblox
+June 2021 - July 2023
 
-With a background as a technical support, seller development on the Marketplace platform, and a pharmacy assistant, I know what it means to be emphatic, communicative, disciplined, and business-oriented.
+- Worked on subprojects for Roblox, focusing on app features such as social interactions, avatars, and games, to ensure seamless functionality and user satisfaction. 
+- Ensured products not only met but exceeded user expectations through rigorous static and dynamic testing. 
+- Agile Collaboration involved working closely with cross-functional teams in an Agile environment to ensure seamless integration and functionality.
 
-I am keen on sharing ideas, experiences and setting new quality standards.
+📚 Continuous Learning
+- September 2024: Expanding my skill set to include automation projects using JavaScript, Newman, Docker, API in Postman, and CI/CD pipeline.
 
+💡 My Philosophy
+"Your mind is for having ideas, not for holding them." – David Allen
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=calota-iulia&label=Profile%20views&color=0e75b6&style=flat" alt="calota-iulia" /> </p>
+- My energy, discipline, and passion for innovation drive me to continuously optimize processes and deliver exceptional quality. My diverse background, including roles in technical support, e-commerce seller development, and pharmacy, has instilled in me a keen sense of empathy and effective communication.
 
-------------
+🎨 Personal Interests
+- When I'm not immersed in quality assurance, I enjoy expressing my creativity through crocheting 🪡, staying active with running 🏃, and crafting poetry ✍️. These hobbies help me balance my professional life with creative and physical activities, contributing to my overall well-being and creativity.
 
-- 🏆Certification Tester on [Manual and Automated testing](https://github.com/Iulia-Calota/About-me/blob/main/Manual%20and%20Automation%20Testing%20by%20Radu%20Popescu.png)
-- 🌱 I'm currently working on [ API-Automation Project](https://github.com/Iulia-Calota/Testing-Automation-New)
-- How can you reach me: 
-<a href="https://linkedin.com/in/calota-iulia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="calota-iulia" height="25" width="15" /></a>
-</p>
+🚀 Goals and Aspirations
+- I’m eager to bring my expertise to new and exciting opportunities, where I can contribute to innovative projects and help set new standards of quality. I’m passionate about learning, sharing knowledge, and striving for excellence in everything I do.
+
+🌍 Let’s Connect
+- If you’re looking for a dedicated QA professional who combines technical expertise with a genuine passion for quality and user experience, let’s connect! I’m excited about new opportunities and eager to contribute to your success.
 
 ----
 
